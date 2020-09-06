@@ -1,4 +1,4 @@
-#Sun Sep 06 01:13:08 BDT 2020
+#Sun Sep 06 12:51:19 BDT 2020
 base.0=/Users/raiyansharif/Documents/Flutter Project/dicee-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
